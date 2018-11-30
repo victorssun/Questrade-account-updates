@@ -7,6 +7,7 @@ Saves list of balance and positions as account_daily.pickle, saves list of profi
 
 List is updated every time script is ran.
 
-For others use: change directories and paths
 
-Last modified: completed project
+For others use: change directories and paths.
+
+Last modified: completed project.
