@@ -1,4 +1,4 @@
-# Questrade-account-updates
+# Questrade-uses
 Grabs Questrade account balances and positions
 
 Requires refreshtoken.pickle and Questrade API python wrapper.
